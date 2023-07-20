@@ -1,3 +1,4 @@
+
 value_age = int(input('Insira a sua idade :'))
 
 formula_tanaka = 208 - (0.7 * value_age)
@@ -21,3 +22,4 @@ print('Minha Zona 3 varia entre {:.2f} e {:.2f} batimentos cardíacos'.format(zo
 print('Minha Zona 4 varia entre {:.2f} e {:.2f} batimentos cardíacos'.format(zone_4[0], zone_4[1]))
 
 print('Minha Zona 5 varia entre {:.2f} e {:.2f} batimentos cardíacos'.format(zone_5[0], zone_5[1]))
+
